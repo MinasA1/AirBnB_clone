@@ -1,6 +1,6 @@
 # HAirBnB Clone
 
-<p align="center"><img src="https://github.com/feliciahsieh/AirBnB_clone/blob/master/AirBnBClone.jpg" style="height:15%;width:15%" /></p>
+<p align="center"><img src="https://s3.amazonaws.com/intranet-projects-files/holbertonschool-higher-level_programming+/263/HBTN-hbnb-Final.png" style="height:15%;width:15%" /></p>
 
 ## Welcome
 HBnB is a subset of the the popular AirBnB app, where people can rent out their lodgings similar to a hotel for a price. A place is listed on the website with information about the place (such as the number of rooms, guests, price, location), amenities, and reviews of the listing. Information about the User (renter and lister) is also collected.
@@ -49,11 +49,10 @@ It is recommended that the console be run interactively. Although there is a non
 ```
 
 This is how you can use the Console interactively.
-<p align="center"><img src="https://github.com/feliciahsieh/AirBnB_clone/blob/master/AirBnBInteractive.png" style="height:15%;width:15%" /></p>
+
 
 You can "echo" the command-line options and pipe the commands into the Console tool as shown below.
 
-<p align="center"><img src="https://github.com/feliciahsieh/AirBnB_clone/blob/master/AirBnBNonInteractive.png" style="height:15%;width:15%" /></p>
 
 
 ## Example Instructions
@@ -132,6 +131,4 @@ The code was tested using "unittest" in the AirBnB_clone/tests/ directory using 
 
 ## Credits
 Minas Anton ([@minas_anton](https://twitter.com/minas_anton))
-
-## License
-HBnB is released under the MIT license. See [LICENSE](https://github.com/feliciahsieh/AirBnB_clone/blob/master/LICENSE) for details.
+Felicia Hsieh (https://github.com/feliciahsieh)
