@@ -1,0 +1,9 @@
+#!/usr/bin/env bash
+#transfers a file to a server
+if (( $# < 1 ))
+then
+	echo "Usage: 0-transfer_file PATH_TO_FILE"
+else
+    sudo scp -o StrictHostKeyChecking=no -i ~/.ssh/holberton "$@" ubuntu@142.44.167.26:~/
+fi
+

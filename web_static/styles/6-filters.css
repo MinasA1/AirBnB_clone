@@ -41,6 +41,20 @@
     width:30%;
 }
 
+.amenities ul{
+    list-style-type:none;
+}
+.amenities ul li{
+    align-text:left;
+}
+.amenities h2{
+    align-text:left;
+    width:100%;
+    padding-left:0px;
+    margin-left:0;
+    font-size:16px;
+    border-bottom:1px solid #DDDDDD;
+}
 .popover {
     position:relative;
 }
