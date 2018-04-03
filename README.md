@@ -26,11 +26,7 @@ Our project is written entirely in Python and uses the Python "cmd" module.
 * PEP 8 styling (v1.7)
 
 ## Installation
-The prompt is "~/AirBnB_clone$". And so, in your terminal, git clone the directory with the following command:
-
-```
-~/AirBnB_clone$ git clone https://github.com/feliciahsieh/AirBnB_clone.git
-```
+The prompt is "~/AirBnB_clone$". And so, in your terminal, git clone the directory 
 
 To run the Command-line tool, "console", type
 
@@ -38,7 +34,7 @@ To run the Command-line tool, "console", type
 ~/AirBnB_clone$ ./console
 ```
 
-If you are a developer who would like to fork our current project to create your own domain-specific HAirBnB, please contact us. See the AUTHORS file.
+If you are a developer who would like to fork our current project to create your own domain-specific HBnB, please contact us. See the AUTHORS file.
 
 ## Usage
 
@@ -131,4 +127,3 @@ The code was tested using "unittest" in the AirBnB_clone/tests/ directory using 
 
 ## Credits
 Minas Anton ([@minas_anton](https://twitter.com/minas_anton))
-Felicia Hsieh (https://github.com/feliciahsieh)
